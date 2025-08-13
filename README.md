@@ -8,3 +8,5 @@ Cosas Pendientes:
 Revisar y elegir un diseño (en el elemento root: del css estan las variables para realizar dicho cambio).
 acomodar el tamaño y forma del calendario.
 agregar las imagenes de cada estación (en el javascript se tiene que agregar los links).
+
+Miguel/ Diego
